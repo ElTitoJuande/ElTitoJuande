@@ -1,6 +1,4 @@
 # 💫 About Me:
-Estoy estudiando en la EAG en Granada, JavaScript y php. Wordpress y boostrap con bootwatch. Manejo muy bien html y css. <br>Fun fact: me encanta el deporte
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eltitojuande#0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Juande00) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ElTitoJuande) 
